@@ -19,7 +19,7 @@ export const robots = [
   },
   {
     id: 4,
-    name: 'Patricia Lebsack',
+    name: 'Patriciaa Lebsack',
     username: 'Karianne',
     email: 'Julianne.OConner@kory.org'
   },
